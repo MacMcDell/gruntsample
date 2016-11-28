@@ -1,0 +1,10 @@
+{
+    "Scripts/jquery-1.10.2.min.js": "/localBundles/jquery-1.10.2.min.db0eb3e0.js",
+    "Scripts/jquery.validate.min.js": "/localBundles/jquery.validate.min.f0a35942.js",
+    "Scripts/jquery.validate.unobtrusive.min.js": "/localBundles/jquery.validate.unobtrusive.min.37fec7e0.js",
+    "Scripts/modernizr-2.6.2.js": "/localBundles/modernizr-2.6.2.ec703d0a.js",
+    "Scripts/bootstrap.js": "/localBundles/bootstrap.c200761a.js",
+    "Scripts/respond.js": "/localBundles/respond.062abc1f.js",
+    "Content/bootstrap.css": "/localBundles/bootstrap.151a0e79.css",
+    "Content/site.css": "/localBundles/site.1646e513.css"
+}

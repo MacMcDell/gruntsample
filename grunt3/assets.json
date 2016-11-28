@@ -1,0 +1,12 @@
+{
+    "bundles/jquery.js": "/bundles/jquery.2250e502.js",
+    "bundles/jquery.js.map": "/bundles/jquery.2250e502.js.map",
+    "bundles/jqueryval.js": "/bundles/jqueryval.e6875359.js",
+    "bundles/jqueryval.js.map": "/bundles/jqueryval.e6875359.js.map",
+    "bundles/modernizr.js": "/bundles/modernizr.7dec8014.js",
+    "bundles/modernizr.js.map": "/bundles/modernizr.7dec8014.js.map",
+    "bundles/bootstrap.js": "/bundles/bootstrap.a7c4ec6e.js",
+    "bundles/bootstrap.js.map": "/bundles/bootstrap.a7c4ec6e.js.map",
+    "bundles/main.css": "/bundles/main.181b0572.css",
+    "bundles/main.css.map": "/bundles/main.181b0572.css.map"
+}
